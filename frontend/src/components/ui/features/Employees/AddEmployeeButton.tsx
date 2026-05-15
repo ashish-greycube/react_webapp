@@ -107,8 +107,6 @@ const AddEmployeeButton = () => {
               </Popover>
             </Field>
 
-            <LinkField doctype="Department" value="" onChange={() => {}} />        
-
             <Field>
               <FieldLabel htmlFor="date_of_birth">Date of Birth</FieldLabel>
               <Popover>
